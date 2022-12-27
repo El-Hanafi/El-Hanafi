@@ -9,7 +9,7 @@
 
 # 💫 About Me :
 <!-- - 🔭 I’m currently building [Dweera](https://Dweera.com/).-->
-- 🌱 I’m currently learning more about Web development and data science.
+- 🌱 I’m currently learning more about Fullstack developpement.
 - 💬 Ask me about Javascript or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 <!-- - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/hellocodepur).
